@@ -56,7 +56,7 @@ This repository represents an open academic exploration of **AI-driven quantitat
               └───────────────────────┘
 
 ## Project Structure 
-
+```bash
 VolGAN-X/
 │
 ├── data/                # Option datasets (sample or cleaned)
@@ -72,3 +72,4 @@ VolGAN-X/
 ├── results/             # Generated surfaces, metrics, and plots
 ├── requirements.txt
 └── README.md
+```
