@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Data & results
+data/*.parquet
+data/*.feather
+results/*.npy
+results/*.pt
+results/logs/*
+!results/.gitkeep
+
+# OS
+.DS_Store
